@@ -1,0 +1,4 @@
+- 👋 Hola, soy @jeperezvi
+- 🌱 Actualmente estoy aprendiendo desarrollo de software
+- 💞️ Estoy buscando colaborar en proyectos de desarrollo.
+- 📫 jpe.94@hotmail.com
